@@ -2,5 +2,5 @@
 
 # To compile AquaWM, install dependencies:
 `libx11-dev feh`
-# After this write:
+# After write this:
 `make` and `sudo/doas make install`
