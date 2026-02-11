@@ -5,4 +5,4 @@ WM is written entirely in C using only the X11 and Xlibr libraries. All window f
 # About other programs:
 A bunch of programs are planned for AquaWM, making AquaWM a full-fledged desktop environment. You can see the name of the programs and their functionality in [`Programs`](programs.txt)
 # To install AquaWM, check:
-[`How to install`](install.md)
+[`How to install`](install.md) 
